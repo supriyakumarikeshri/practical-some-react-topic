@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/practical-some-react-topic/static/css/main.fb03342b.chunk.css",
+    "main.js": "/practical-some-react-topic/static/js/main.d96d60ee.chunk.js",
+    "main.js.map": "/practical-some-react-topic/static/js/main.d96d60ee.chunk.js.map",
+    "runtime-main.js": "/practical-some-react-topic/static/js/runtime-main.59100415.js",
+    "runtime-main.js.map": "/practical-some-react-topic/static/js/runtime-main.59100415.js.map",
+    "static/css/2.deb38e74.chunk.css": "/practical-some-react-topic/static/css/2.deb38e74.chunk.css",
+    "static/js/2.38278de3.chunk.js": "/practical-some-react-topic/static/js/2.38278de3.chunk.js",
+    "static/js/2.38278de3.chunk.js.map": "/practical-some-react-topic/static/js/2.38278de3.chunk.js.map",
+    "index.html": "/practical-some-react-topic/index.html",
+    "precache-manifest.872a066ea1cba7c160c82bb66d06790b.js": "/practical-some-react-topic/precache-manifest.872a066ea1cba7c160c82bb66d06790b.js",
+    "service-worker.js": "/practical-some-react-topic/service-worker.js",
+    "static/css/2.deb38e74.chunk.css.map": "/practical-some-react-topic/static/css/2.deb38e74.chunk.css.map",
+    "static/css/main.fb03342b.chunk.css.map": "/practical-some-react-topic/static/css/main.fb03342b.chunk.css.map",
+    "static/js/2.38278de3.chunk.js.LICENSE.txt": "/practical-some-react-topic/static/js/2.38278de3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59100415.js",
+    "static/css/2.deb38e74.chunk.css",
+    "static/js/2.38278de3.chunk.js",
+    "static/css/main.fb03342b.chunk.css",
+    "static/js/main.d96d60ee.chunk.js"
+  ]
+}
